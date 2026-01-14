@@ -40,9 +40,7 @@ basic-weather-app/
 ├── weather_condition_distribution.py
 ├── temperature_humidity_forecast.py
 └── README.md
-
 ---
-
 ## API Key Setup (Required)
 
 The application uses the **OpenWeatherMap API**.
@@ -98,9 +96,7 @@ By completing this project, you will gain experience in:
 - **Comparing multiple metrics using dual-axis plots**
 - **Writing clean, modular, and portfolio-ready Python code**
 - **Understanding basic weather analytics and data-driven insights**
-
 ---
-
 ## FUTURE ENHANCEMENTS
 
 Potential upgrades to make the app more advanced:
