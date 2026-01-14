@@ -8,7 +8,7 @@ This project demonstrates a progression from **basic command-line applications**
 
 ---
 
-## Project Contents (All-in-One)
+## Project Contents 
 
 This project contains **four weather programs**:
 
@@ -87,35 +87,6 @@ Analyzes and visualizes how often different weather conditions occur over a 5-da
 
 Compares temperature and humidity using dual Y-axes for accurate visualization.
 
-### Learning Outcomes
+###
 
-This project demonstrates:
-
-REST API integration
-
-Secure API key handling
-
-JSON parsing
-
-Error handling
-
-Time-series data analysis
-
-Data visualization with matplotlib
-
-Intermediate Python programming skills
-
-### Future Enhancements
-
-GUI-based weather dashboard using Tkinter
-
-Daily average forecast calculations
-
-Multi-city weather comparison
-
-Weather icons and animations
-
-Export charts as images
-
-Database storage for historical data
 
