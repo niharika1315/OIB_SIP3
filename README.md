@@ -84,32 +84,4 @@ Analyzes and visualizes how often different weather conditions occur over a 5-da
 4️⃣ Temperature & Humidity Forecast Comparison
 
 Compares temperature and humidity using dual Y-axes for accurate visualization.
----
-## LEARNING OUTCOMES
-
-By completing this project, you will gain experience in:
-
-- **Fetching and parsing API data (JSON)**
-- **User input handling and error management**
-- **Time-series visualization using matplotlib**
-- **Categorical data analysis (weather condition distribution)**
-- **Comparing multiple metrics using dual-axis plots**
-- **Writing clean, modular, and portfolio-ready Python code**
-- **Understanding basic weather analytics and data-driven insights**
----
-## FUTURE ENHANCEMENTS
-
-Potential upgrades to make the app more advanced:
-
-- **GUI-based dashboard** using Tkinter or PyQt
-- **Daily average temperature and humidity calculations**
-- **Multi-city weather comparison**
-- **Weather icons and animations** for better user experience
-- **Export charts as PNG or PDF files**
-- **Historical weather data storage** in a database
-- **Real-time automatic updates** using scheduling
-- **Unit conversion options** (Celsius/Fahrenheit)
-
-
-
 
