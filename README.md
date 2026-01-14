@@ -1,4 +1,4 @@
--7# OIB_SIP3
+# OIB_SIP3
 # Basic Weather App (Python)
 
 The **Basic Weather App** is a Python project that fetches, analyzes, and visualizes weather data using the **OpenWeatherMap API**.  
@@ -86,8 +86,7 @@ Analyzes and visualizes how often different weather conditions occur over a 5-da
 4️⃣ Temperature & Humidity Forecast Comparison
 
 Compares temperature and humidity using dual Y-axes for accurate visualization.
-
-###
+---
 ## LEARNING OUTCOMES
 
 By completing this project, you will gain experience in:
